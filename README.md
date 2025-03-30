@@ -2,7 +2,7 @@
 
 A simple and user-friendly currency converter application built using React. This app allows users to convert between different currencies using real-time exchange rates.
 
-![Demo](docs/image.png)
+![Demo](./docs/image.png)
 
 ## Live Demo
 🔗 [View Live App](https://currency-converter-ivory-psi.vercel.app/)
